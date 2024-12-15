@@ -47,7 +47,7 @@ This repository showcases a comprehensive healthcare analysis for Sierra Leone. 
    - `sentiment_topic_extraction_overview.docx`: Summary of text analysis methods and results.
    - `q2_interpretations.xlsx` & `q8_interpretations.xlsx`: Team interpretations of Reporting Rates and Vaccination Coverage visualizations.
    - `question_2_keywords.csv` & `question_8_keywords.csv`: Extracted keywords from discussions.
-   - `[question_2_topics.html](http://jtay.me/question_2_topics_9.html)` & `[question_8_topics.html](http://jtay.me/question_8_topics.html)`: Interactive topic modeling visualizations.
+   - `[Question 2 Topics](http://jtay.me/question_2_topics_9.html)` & `[Question 8 Topics](http://jtay.me/question_8_topics.html)`: Interactive topic modeling visualizations.
 
 ---
 
