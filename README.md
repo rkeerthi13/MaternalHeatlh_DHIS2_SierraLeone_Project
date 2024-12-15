@@ -32,7 +32,7 @@ This repository showcases a comprehensive healthcare analysis for Sierra Leone. 
 ## Deliverables
 
 1. **Presentation**:
-   - `sierra_leone_healthcare_analysis_presentation.pptx`: Overview of findings, methods, and insights.
+   - `sierra_leone_healthcare_analysis_presentation.pdf`: Overview of findings, methods, and insights.
 
 2. **Dashboard**:
    - `sierra_leone_healthcare_dashboard.pdf`: DHIS2 dashboard consolidating visualizations and findings.
