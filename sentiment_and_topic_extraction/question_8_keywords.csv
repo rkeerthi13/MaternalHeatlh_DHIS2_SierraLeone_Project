@@ -1,0 +1,11 @@
+Topic 1,Topic 2,Topic 3,Topic 4
+ANC,delivery,delivery,coverage
+delivery,PHU,PHU,delivery
+health,facilities,ANC,PHU
+PHU,rates,care,ANC
+care,coverage,coverage,ANC3
+women,care,rates,Island
+transportation,services,services,facilities
+could,deliveries,facilities,rates
+deliveries,Island,antenatal,care
+maternal,ANC,maternal,rate
