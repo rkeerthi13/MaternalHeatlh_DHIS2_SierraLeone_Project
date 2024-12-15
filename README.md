@@ -79,7 +79,7 @@ This repository showcases a comprehensive healthcare analysis for Sierra Leone. 
 
 ---
 
-## Authors
+## Contributors
 
 - Keerthika Sunchu
 - Meghana Darla 
