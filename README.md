@@ -95,4 +95,7 @@ This repository showcases a comprehensive healthcare analysis for Sierra Leone. 
 For questions or suggestions, please contact:  
 Keerthika Sunchu - [ksunchu@iu.edu](mailto:ksunchu@iu.edu)
 
+
+Ramya Keerthi Majji- [rmajji@iu.edu]
+
 ---
